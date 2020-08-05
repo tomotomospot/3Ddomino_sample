@@ -1,4 +1,3 @@
-Scene
 
 ■ Game1
 Domino is one
